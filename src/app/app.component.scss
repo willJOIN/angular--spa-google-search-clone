@@ -1,0 +1,24 @@
+#logo{
+  img{
+    width: 18.125rem;
+    height: 18.125rem;
+    margin-top: 3.4375rem; 
+    margin-right: 0rem;
+    margin-bottom: -4.0625rem; 
+    margin-left: 50.3125rem;
+  }
+}
+
+#search-bar, #buttons, #language{
+  display: grid;
+  place-items: center;
+}
+
+#buttons{
+  margin-top: 20px;
+  margin-bottom: -15px;
+}
+
+ul{
+  list-style: none;
+}
